@@ -1,2 +1,0 @@
-//command line code that consume a public HTTP API
-https://maps.google.com/maps/api/place/nearbysearch/json?location=-33.38008,150.345523&radius=500&types=food&name=resort&key="1234455667777"
